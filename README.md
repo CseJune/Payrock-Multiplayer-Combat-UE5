@@ -139,7 +139,7 @@ void APRCharacter::ServerStartJump_Implementation()
 
 ## 플레이 영상
 
-(추후 업로드 예정)
+![GamePlay](https://www.youtube.com/watch?v=1zNYKVr7g4Q&t=7s)
 
 ---
 
