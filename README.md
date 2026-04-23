@@ -2,7 +2,7 @@
 
 Unreal Engine 5와 C++ 기반으로 멀티플레이 전투 시스템을 구현하고 그 과정에서 발생한 동기화 문제를 해결한 프로젝트입니다.
 
-[Trailer](https://www.youtube.com/watch?v=LPgUK3iawyQ)
+![Trailer](https://www.youtube.com/watch?v=LPgUK3iawyQ)
 ---
 
 ## 프로젝트 개요
